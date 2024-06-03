@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Jakarta</name>
+   <tag></tag>
+   <elementGuidId>92a88385-c26b-4c5d-8622-5fb0f93b097d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-root']/div[5]/div/div/section/div/div/div/div[2]/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.Chip_chip__d6PEp.Chip_size_default__3nkQo.AirportForm_chip_popular_cities__v_U7c > span.Chip_text__h3BJg.Text_text__DSnue.Text_variant_highEmphasis__ubq3k.Text_size_b2__y3Q2E.Text_weight_regular__pJ2W2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Jakarta&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b8e67068-b81f-4f03-983d-773665edb6c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Chip_text__h3BJg Text_text__DSnue Text_variant_highEmphasis__ubq3k Text_size_b2__y3Q2E Text_weight_regular__pJ2W2</value>
+      <webElementGuid>a9302adf-d596-4989-8599-cd90d4796527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jakarta</value>
+      <webElementGuid>36c249c5-cb5e-445e-a4bd-14cad7cbcdbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[5]/div[@class=&quot;BaseModal_modal__NAWjb&quot;]/div[@class=&quot;BaseModal_modal_wrapper__h_1yb&quot;]/section[@class=&quot;Modal_modal_popup__oFyfk Modal_modal_popup_small__5tnZS Modal_modal_popup_width_default__GfN4T&quot;]/div[@class=&quot;ModalBody_modal_body__G2U0m ModalBody_overflow_bottom__Axor2 ModalBody_with_padding__kn_5m&quot;]/div[@class=&quot;ModalBody_content__ssULq Text_text__DSnue Text_variant_highEmphasis__ubq3k Text_size_b2__y3Q2E&quot;]/div[@class=&quot;AirportForm_container__JDii5&quot;]/div[@class=&quot;AirportForm_body__3JXUH&quot;]/div[1]/div[@class=&quot;AirportForm_popular_cities__cFgai&quot;]/button[@class=&quot;Chip_chip__d6PEp Chip_size_default__3nkQo AirportForm_chip_popular_cities__v_U7c&quot;]/span[@class=&quot;Chip_text__h3BJg Text_text__DSnue Text_variant_highEmphasis__ubq3k Text_size_b2__y3Q2E Text_weight_regular__pJ2W2&quot;]</value>
+      <webElementGuid>d92d3f0d-361d-484e-a38a-a590b7d1fe24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-root']/div[5]/div/div/section/div/div/div/div[2]/div/div/button/span</value>
+      <webElementGuid>688012d5-b8e7-412c-829e-8cdb0010fee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Destinasi Populer'])[1]/following::span[1]</value>
+      <webElementGuid>cb8a0b2b-17e4-44b2-ab82-90d8f320e467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mau ke Mana?'])[1]/following::span[1]</value>
+      <webElementGuid>49fcc823-a581-46aa-be80-71ddf5e7f900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surabaya'])[4]/preceding::span[1]</value>
+      <webElementGuid>d130a9c9-f77a-479a-8f28-d61ae75f46e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medan'])[6]/preceding::span[2]</value>
+      <webElementGuid>463b4a69-e0c8-43f8-9242-214d6d7079a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button/span</value>
+      <webElementGuid>43f7457d-c841-4f03-9d80-cf773f95840f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Jakarta' or . = 'Jakarta')]</value>
+      <webElementGuid>abcf5435-7875-4e84-89ef-cbebdee8c1a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
