@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Medan</name>
+   <tag></tag>
+   <elementGuidId>cf1c04c0-a8e7-4456-a337-9b8870e6aded</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-root']/div[2]/div/div/section/div/div/div/div[2]/div/div/button[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Medan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c86a35c0-4811-404a-9b8f-2be5af1646cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Chip_text__h3BJg Text_text__DSnue Text_variant_highEmphasis__ubq3k Text_size_b2__y3Q2E Text_weight_regular__pJ2W2</value>
+      <webElementGuid>128b9d22-ca4e-4b24-9375-807cf908d9d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Medan</value>
+      <webElementGuid>468a9fd3-9864-43af-82b6-28b2c2b57b13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[2]/div[@class=&quot;BaseModal_modal__NAWjb&quot;]/div[@class=&quot;BaseModal_modal_wrapper__h_1yb&quot;]/section[@class=&quot;Modal_modal_popup__oFyfk Modal_modal_popup_small__5tnZS Modal_modal_popup_width_default__GfN4T&quot;]/div[@class=&quot;ModalBody_modal_body__G2U0m ModalBody_overflow_bottom__Axor2 ModalBody_with_padding__kn_5m&quot;]/div[@class=&quot;ModalBody_content__ssULq Text_text__DSnue Text_variant_highEmphasis__ubq3k Text_size_b2__y3Q2E&quot;]/div[@class=&quot;AirportForm_container__JDii5&quot;]/div[@class=&quot;AirportForm_body__3JXUH&quot;]/div[1]/div[@class=&quot;AirportForm_popular_cities__cFgai&quot;]/button[@class=&quot;Chip_chip__d6PEp Chip_size_default__3nkQo AirportForm_chip_popular_cities__v_U7c&quot;]/span[@class=&quot;Chip_text__h3BJg Text_text__DSnue Text_variant_highEmphasis__ubq3k Text_size_b2__y3Q2E Text_weight_regular__pJ2W2&quot;]</value>
+      <webElementGuid>6f1918eb-61ad-467e-95fd-d39a7da6f7e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-root']/div[2]/div/div/section/div/div/div/div[2]/div/div/button[3]/span</value>
+      <webElementGuid>5a5423db-dec4-4106-ae27-54a3bf0d3101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surabaya'])[4]/following::span[1]</value>
+      <webElementGuid>a55bf10b-1d3d-40f6-8d63-5bfe194fe7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jakarta'])[14]/following::span[2]</value>
+      <webElementGuid>2937809a-7bf1-4fd8-ae5a-8b230d0b2892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Makassar'])[4]/preceding::span[1]</value>
+      <webElementGuid>8a89f0c9-875b-4b4c-b1f2-b914ba1e308f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yogyakarta'])[2]/preceding::span[2]</value>
+      <webElementGuid>85e2255a-263c-4a07-af58-4c66b0c73206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button[3]/span</value>
+      <webElementGuid>69534fdc-8d00-474b-a5fa-79adb7016c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Medan' or . = 'Medan')]</value>
+      <webElementGuid>86f53b9e-1284-43f5-87b8-1ff7a574a018</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

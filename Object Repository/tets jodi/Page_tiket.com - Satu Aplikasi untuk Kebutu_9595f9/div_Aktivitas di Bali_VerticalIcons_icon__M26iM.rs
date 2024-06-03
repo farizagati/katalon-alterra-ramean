@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Aktivitas di Bali_VerticalIcons_icon__M26iM</name>
+   <tag></tag>
+   <elementGuidId>60df53ec-59f9-469e-98c8-b0541b3c5e2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/header/div/div[3]/div[2]/div/div[2]/div/ul/li/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.VerticalIcons_icon__M26iM</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Pesawat&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ae5c745e-7640-41f9-b6d8-a13775059469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VerticalIcons_icon__M26iM</value>
+      <webElementGuid>a584eb77-bafb-4e5b-b36a-38339fb02f0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;index_main___rT19&quot;]/header[@class=&quot;index_header__25ySr&quot;]/div[@class=&quot;index_header_inner__ZgIbg&quot;]/div[@class=&quot;index_content__k_CP2 index_desktop_only__ss43k&quot;]/div[2]/div[@class=&quot;VerticalIcons_list__SWa9c&quot;]/div[@class=&quot;VerticalIcons_listIcon__rGlIP&quot;]/div[@class=&quot;VerticalIcons_wrapper__4jHIR&quot;]/ul[1]/li[1]/a[1]/div[@class=&quot;VerticalIcons_icon__M26iM&quot;]</value>
+      <webElementGuid>1708f451-1c06-4b89-a5b0-dfbdf7714d43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/header/div/div[3]/div[2]/div/div[2]/div/ul/li/a/div</value>
+      <webElementGuid>03295c27-4061-4c11-a8a5-ab111e2247e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktivitas di Bali'])[1]/following::div[7]</value>
+      <webElementGuid>e5f15481-4f68-44d2-8e46-40cabb18ce76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sewa Mobil di Semarang'])[1]/following::div[8]</value>
+      <webElementGuid>d84c6e34-8784-4a72-acc5-1f2a3cfbdaee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tiket.com - Satu aplikasi untuk kebutuhan liburanmu.'])[1]/preceding::div[20]</value>
+      <webElementGuid>49638052-96c6-44d6-85bc-a2b2d50f12eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek yang populer di tiket.com! 🏆🤩'])[1]/preceding::div[21]</value>
+      <webElementGuid>b51d5b8b-44f9-4769-b47c-b750e5059df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>84c8f262-b7af-4a12-980f-7353016401f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
